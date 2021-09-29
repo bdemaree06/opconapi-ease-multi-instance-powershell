@@ -1,5 +1,5 @@
 # OpCon Multi Instance EASE Connector Scripts
-**Warning**: EASE offers both a standard and a premium solution for remotely connecting to their instance of OpCon to drive processes and monitor processes. These scripts are the premium solution. Please reach out to your EASE representative to get more information.   
+**Warning**: EASE offers both a standard and a premium solution for the EASE Connector. These scripts are the premium solution. Please reach out to your EASE representative to get more information on how gain access to this premium offering.   
 
 The scripts within this repo are used to connect to the OpCon API within EASE's environment to launch and monitor the specified Jobs. Only authorized users can connect and only the specified Jobs can be run. What makes this the premium version of this solution is they are configured to allow multiple processes to be run concurrently. 
 
